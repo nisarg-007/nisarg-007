@@ -178,7 +178,7 @@ All 23 public repositories, grouped.
 <img alt="Oracle Data Platform 2025 Foundations Associate" src="https://img.shields.io/badge/Oracle_Data_Platform_2025-0071e3?style=flat-square&logo=oracle&logoColor=white" />
 <img alt="Wells Fargo Software Engineering Simulation" src="https://img.shields.io/badge/Wells_Fargo_SWE_Simulation-0071e3?style=flat-square" />
 <img alt="British Airways Data Science Simulation" src="https://img.shields.io/badge/British_Airways_Data_Science-0071e3?style=flat-square" />
-<img alt="28 certifications total" src="https://img.shields.io/badge/28_certifications-1d1d1f?style=flat-square" />
+<img alt="28 certifications total" src="https://img.shields.io/badge/28_certifications-636366?style=flat-square" />
 
 </div>
 
@@ -194,39 +194,10 @@ All 23 public repositories, grouped.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nisarg-007/nisarg-007/main/metrics/overview-dark.svg" />
-  <img alt="GitHub activity overview" src="https://raw.githubusercontent.com/nisarg-007/nisarg-007/main/metrics/overview.svg" width="46%" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nisarg-007/nisarg-007/main/metrics/languages-dark.svg" />
-  <img alt="Most-used languages" src="https://raw.githubusercontent.com/nisarg-007/nisarg-007/main/metrics/languages.svg" width="46%" />
-</picture>
-
-<br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nisarg-007&hide_border=true&theme=transparent&ring=0071e3&fire=0071e3&currStreakLabel=0071e3&sideLabels=8A8A8F&dates=8A8A8F&stroke=8A8A8F&currStreakNum=8A8A8F&sideNums=8A8A8F" />
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=nisarg-007&hide_border=true&theme=transparent&ring=0071e3&fire=0071e3&currStreakLabel=0071e3&sideLabels=6E6E73&dates=6E6E73&stroke=6E6E73&currStreakNum=6E6E73&sideNums=6E6E73" height="150" />
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=nisarg-007&hide_border=true&theme=transparent&ring=0071e3&fire=0071e3&currStreakLabel=0071e3&sideLabels=6E6E73&dates=6E6E73&stroke=6E6E73&currStreakNum=6E6E73&sideNums=6E6E73" height="165" />
 </picture>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nisarg-007/nisarg-007/main/metrics/calendar-dark.svg" />
-  <img alt="Contribution calendar, past year" src="https://raw.githubusercontent.com/nisarg-007/nisarg-007/main/metrics/calendar.svg" width="94%" />
-</picture>
-
-</div>
-
-<br/>
-
-## Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nisarg-007/nisarg-007/output/github-snake-dark.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/nisarg-007/nisarg-007/output/github-snake.svg" />
-  </picture>
 </div>
 
 <br/>

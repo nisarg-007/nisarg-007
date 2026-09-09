@@ -193,19 +193,10 @@ All 23 public repositories, grouped.
 
 <div align="center">
 
-<img alt="GitHub activity overview" src="https://raw.githubusercontent.com/nisarg-007/nisarg-007/main/metrics/overview.svg" width="46%" />
-<img alt="Most-used languages" src="https://raw.githubusercontent.com/nisarg-007/nisarg-007/main/metrics/languages.svg" width="46%" />
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nisarg-007&hide_border=true&theme=transparent&ring=0071e3&fire=0071e3&currStreakLabel=0071e3&sideLabels=8A8A8F&dates=8A8A8F&stroke=8A8A8F&currStreakNum=8A8A8F&sideNums=8A8A8F" />
   <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=nisarg-007&hide_border=true&theme=transparent&ring=0071e3&fire=0071e3&currStreakLabel=0071e3&sideLabels=6E6E73&dates=6E6E73&stroke=6E6E73&currStreakNum=6E6E73&sideNums=6E6E73" height="165" />
 </picture>
-
-<br/>
-
-<img alt="Contribution calendar, past year" src="https://raw.githubusercontent.com/nisarg-007/nisarg-007/main/metrics/calendar.svg" width="94%" />
 
 </div>
 

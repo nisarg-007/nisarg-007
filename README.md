@@ -64,8 +64,77 @@ Responsive survey platform for 300+ employees on Django + SQLite — **+40% resp
 | **[procurement_system](https://github.com/nisarg-007/procurement_system)** | 16-table 3NF procurement platform. Role-based KPI dashboards, 6 access levels, full audit log of every mutation. | `Flask` `SQLite` `Firebase` |
 | **[CurricuLens](https://github.com/nisarg-007/CurricuLens)** | Business-first AI consulting build — the one project singled out for leading with the "so what?". | `Python` `ML` |
 | **[zepto-sql-analysis](https://github.com/nisarg-007/zepto-sql-analysis)** | Unit economics on 3,000+ quick-commerce SKUs. True price-per-gram, stockout revenue risk, logistics weight by category. | `PostgreSQL` |
-| **[Netflix SQL Analysis](https://github.com/nisarg-007/Advanced-SQL-Project-on-Netflix-data)** | Window functions, CTEs and rank logic across the Netflix catalogue. | `SQL` |
+| **[Advanced-SQL-Project-on-Netflix-data](https://github.com/nisarg-007/Advanced-SQL-Project-on-Netflix-data)** | Window functions, CTEs and rank logic across the Netflix catalogue. | `SQL` |
 | **[n8n-job-pipeline](https://github.com/nisarg-007/n8n-job-pipeline)** | Automated job sourcing: scrape → normalise → enrich → notify. | `n8n` `Automation` |
+
+<br/>
+
+## Everything else
+
+All 23 public repositories, grouped.
+
+<details>
+<summary><b>Data, analytics &amp; ML</b> — 6</summary>
+
+<br/>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [occurrence-desk](https://github.com/nisarg-007/occurrence-desk) | Cloud-native aviation safety report triage on SQS + Fargate. | `Python` `AWS` |
+| [zepto-sql-analysis](https://github.com/nisarg-007/zepto-sql-analysis) | Quick-commerce unit economics over 3,000+ SKUs. | `PostgreSQL` |
+| [Advanced-SQL-Project-on-Netflix-data](https://github.com/nisarg-007/Advanced-SQL-Project-on-Netflix-data) | Advanced SQL over the Netflix catalogue. | `SQL` |
+| [CurricuLens](https://github.com/nisarg-007/CurricuLens) | Curriculum-to-skills mapping, built business-first. | `Python` |
+| [BSEE-Data-Science-Project](https://github.com/nisarg-007/BSEE-Data-Science-Project) | Offshore energy data analysis and reporting. | `HTML` `Python` |
+| [EV_project](https://github.com/nisarg-007/EV_project) | Electric-vehicle dataset analysis. | `Python` |
+
+</details>
+
+<details>
+<summary><b>Applications &amp; tools</b> — 7</summary>
+
+<br/>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [job-application-tracker](https://github.com/nisarg-007/job-application-tracker) | Chrome extension → Google Sheets. Serverless, private, free. | `JavaScript` |
+| [procurement_system](https://github.com/nisarg-007/procurement_system) | 16-table procurement platform with audit logging. | `Python` `Flask` |
+| [n8n-job-pipeline](https://github.com/nisarg-007/n8n-job-pipeline) | Automated job-sourcing pipeline. | `n8n` |
+| [spendwise](https://github.com/nisarg-007/spendwise) | Personal expense tracking. | `JavaScript` |
+| [Y-to-mp3](https://github.com/nisarg-007/Y-to-mp3) | YouTube audio extraction utility. | `TypeScript` |
+| [HangmanFlutter](https://github.com/nisarg-007/HangmanFlutter) | Cross-platform Hangman with local high-score DB. | `Dart` `Flutter` |
+| [python-GUI](https://github.com/nisarg-007/python-GUI) | Desktop GUI experiments. | `Python` |
+
+</details>
+
+<details>
+<summary><b>Internships &amp; job simulations</b> — 5</summary>
+
+<br/>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [British-Airways-Data-Science-Virtual-Internship-Project-main](https://github.com/nisarg-007/British-Airways-Data-Science-Virtual-Internship-Project-main) | Forage job simulation — review scraping and sentiment analysis. | `Jupyter` |
+| [wells-fargo-task-2](https://github.com/nisarg-007/wells-fargo-task-2) | Forage software engineering simulation. | `Java` |
+| [Linde---internship](https://github.com/nisarg-007/Linde---internship) | Survey platform for 300+ employees. +40% response rate. | `CSS` `Django` |
+| [Internship_-_Anayasmi](https://github.com/nisarg-007/Internship_-_Anayasmi) | Frontend build during the Anayasmi Infotech internship. | `JavaScript` |
+| [searchEnds-site-main](https://github.com/nisarg-007/searchEnds-site-main) | Company site built during the Searchends internship. | `CSS` |
+
+</details>
+
+<details>
+<summary><b>Web, portfolio &amp; foundations</b> — 5</summary>
+
+<br/>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Portfolio](https://github.com/nisarg-007/Portfolio) | Personal portfolio site. | `HTML` |
+| [nisarg-007.github.io](https://github.com/nisarg-007/nisarg-007.github.io) | GitHub Pages host. | `Web` |
+| [Resume-Builder-Website](https://github.com/nisarg-007/Resume-Builder-Website) | Browser-based resume generator. | `JavaScript` |
+| [Full-Stack-Web-Development](https://github.com/nisarg-007/Full-Stack-Web-Development) | Full-stack coursework and exercises. | `HTML` |
+| [Rice---Beginner-Track-project](https://github.com/nisarg-007/Rice---Beginner-Track-project) | Rice University beginner data track project. | `Jupyter` |
+
+</details>
 
 <br/>
 
